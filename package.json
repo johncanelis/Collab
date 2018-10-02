@@ -1,0 +1,17 @@
+{
+  "name": "collab",
+  "version": "1.0.0",
+  "description": "Get it done.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ballin"
+  ],
+  "author": "John Roland, John Canelis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
